@@ -51,5 +51,10 @@ The model is filtered to detect only the following vehicle-related classes:
 - `motorbike`
 - `bicycle`
 
+**Note:** If you do not have a gpu, for greater computational efficiency it is recommended to use the documents in their tiny version.
+
+`yolov3-tiny.weights`
+`yolov3-tiny.cfg`
+
 ---
 
